@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ChocoaticLeo
-- 👀 I’m interested in Scripting
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @ChocoaticLeo
+- I’m interested in Scripting
+- I’m currently learning coding
+- You can visit my instagram https://www.instagram.com/wicklyz/
 
 <!---
 ChocoaticLeo/ChocoaticLeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
